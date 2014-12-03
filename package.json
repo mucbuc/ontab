@@ -1,21 +1,21 @@
 {
-  "name": "on-tab",
+  "name": "ontab",
   "version": "0.0.0",
-  "description": "",
+  "description": "auto complete logic",
   "main": "index.js",
   "scripts": {
     "test": "mocha -u tdd --recursive"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mucbuc/on-tab.git"
+    "url": "https://github.com/mucbuc/ontab.git"
   },
   "author": "mark busenitz",
   "license": "GNU",
   "bugs": {
-    "url": "https://github.com/mucbuc/on-tab/issues"
+    "url": "https://github.com/mucbuc/ontab/issues"
   },
-  "homepage": "https://github.com/mucbuc/on-tab",
+  "homepage": "https://github.com/mucbuc/ontab",
   "devDependencies": {
     "mocha": "*", 
     "expector": "*"
